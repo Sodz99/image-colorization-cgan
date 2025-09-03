@@ -3,11 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org/)
 [![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-1.5%2B-purple.svg)](https://www.pytorchlightning.ai/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **A sophisticated deep learning approach to automatic image colorization using Conditional Wasserstein GANs with advanced regularization techniques.**
+> **A deep learning approach to automatic image colorization using Conditional Wasserstein GANs with advanced regularization techniques.**
 
-![Banner](https://via.placeholder.com/800x300/1e1e2e/cdd6f4?text=Image+Colorization+with+CWGANs)
 
 ## 🌟 Project Overview
 
