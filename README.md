@@ -181,11 +181,11 @@ The model achieves competitive results with:
 
 [8] T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, and X. Chen, "Improved techniques for training GANs," in Proc. Adv. Neural Inf. Process. Syst. (NIPS), 2016, pp. 2234–2242.
 
-👤 Author
+## 👤 Author
 
-Sohan Arun
-Department of Computer Science
-Blekinge Institute of Technology
-📧 soar24@student.bth.se
+**Sohan Arun**  
+Master’s Student, Computer Science  
+Blekinge Institute of Technology, Sweden  
+📧 [Sohanoffice46@gmail.com](mailto:Sohanoffice46@gmail.com)
 
 For detailed technical analysis, experimental setup, and theoretical background, please refer to the complete research report: Project_Report.pdf
